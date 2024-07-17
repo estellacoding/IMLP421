@@ -1,5 +1,4 @@
 # IMLP421
-
 [Python機器學習入門 [線上課程]](https://train.csie.ntu.edu.tw/train/course.php?id=4470) 第421期
 - Unit 1 - Python
 - Unit 2 - Data Analysis Package
